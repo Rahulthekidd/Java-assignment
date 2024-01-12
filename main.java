@@ -1,7 +1,7 @@
-package Pkg;
+package your_package;
 
-import java.sql.SQLException;
-import java.util.Scanner;
+import java.sql.SQLException; //import Sql Connection Package
+import java.util.Scanner; //The general Library for java core classes
 
 public class Con_2 {
 
